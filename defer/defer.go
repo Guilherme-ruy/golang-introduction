@@ -1,4 +1,6 @@
-//Defer: Escalona as funções
+// Defer: Adia a execução de uma função, até o fim da função atual
+// Usado para Close(), Unlock(), defer fmt.Println()
+// 👉 Regra mental: “executa no final”
 
 package main
 
